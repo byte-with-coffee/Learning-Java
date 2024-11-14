@@ -1,3 +1,3 @@
 # Learning-Java
-link to [Learning Java](https://github.com/byte-with-coffee/Learning-Java.git)
+link to [Java101](https://github.com/SciBorgs/SciGuides/blob/main/projects/intro-to-programming/Java101.md)
 For the course Java101 in SciGuides
